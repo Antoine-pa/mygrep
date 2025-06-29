@@ -496,8 +496,8 @@ list** calc_F(tree* t) {
 
 # III) Calcul d'un automate reconnaissant une expression régulière :
 ### III)1) Preuve du fonctionnement de Berry Sethi étendu au caractère '.' :
-![preuve_p1.jpg](attachment:preuve_p1.jpg)
-![preuve_p2.jpg](attachment:preuve_p2.jpg)
+![preuve_p1.jpg](preuve_p1.jpg)
+![preuve_p2.jpg](preuve_p2.jpg)
 
 
 ### III)2) Structure de l'automate :
@@ -999,10 +999,10 @@ int main() {
 ```
 Résultats :
 
-auto0 : ![auto0.png](attachment:auto0.png)
-auto1 : ![auto1.png](attachment:auto1.png)
-auto2 : ![auto2.png](attachment:auto2.png)
-auto3 : ![auto3.png](attachment:auto3.png)
-auto4 : ![auto4.png](attachment:auto4.png)
-auto5 : ![auto5.png](attachment:auto5.png)
-auto6 : ![auto6.png](attachment:auto6.png)
+auto0 : ![auto0.png](auto0.png)
+auto1 : ![auto1.png](auto1.png)
+auto2 : ![auto2.png](auto2.png)
+auto3 : ![auto3.png](auto3.png)
+auto4 : ![auto4.png](auto4.png)
+auto5 : ![auto5.png](auto5.png)
+auto6 : ![auto6.png](auto6.png)
