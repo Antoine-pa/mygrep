@@ -1,0 +1,10 @@
+digraph a {
+rankdir = LR;
+node [shape = circle, label = 0] 0;
+node [shape = doublecircle, label = 1] 1;
+node [shape = doublecircle, label = 2] 2;
+node [shape = point]; I
+I -> 0;
+0 -> 1 [label = "a"];
+1 -> 2 [label = "."];
+}
